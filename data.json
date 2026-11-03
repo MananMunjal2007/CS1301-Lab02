@@ -1,0 +1,45 @@
+{
+    "chart_title": "Operating Speeds of Indian Trains",
+    "data_points": [
+        {
+            "label": "Vande Bharat Express",
+            "value": 160
+        },
+        {
+            "label": "Gatimaan Express",
+            "value": 160
+        },
+        {
+            "label": "Shatabdi Express",
+            "value": 150
+        },
+        {
+            "label": "Rajdhani Express",
+            "value": 130
+        },
+        {
+            "label": "Duronto Express",
+            "value": 130
+        },
+        {
+            "label": "Tejas Express",
+            "value": 130
+        },
+        {
+            "label": "Humsafar Express",
+            "value": 130
+        },
+        {
+            "label": "Amrit Bharat Express",
+            "value": 130
+        },
+        {
+            "label": "Garib Rath Express",
+            "value": 130
+        },
+        {
+            "label": "Double Decker Express",
+            "value": 120
+        }
+    ]
+}
